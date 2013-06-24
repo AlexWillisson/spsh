@@ -1,0 +1,10 @@
+splash shell (spsh) is a program designed to make it simple to input a
+set of nodes, and run bulk operations on them based on GUI
+interactions.
+
+A basic example, which is the first part of the implementation being
+worked on, is a file organizer. A list of files will be passed in
+through the command line and will appear as nodes. Those nodes will be
+able to be moved, grouped, renamed, etc. Unlike traditional file
+managers, spsh will display an arbitrary list of files instead of a
+single directory.
